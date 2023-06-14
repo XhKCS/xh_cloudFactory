@@ -1,4 +1,4 @@
-# xh_Repository
+# xh_cloudFactory
 /* 
 I am a freshman who has just learned iava for three months, and this is a simple cloud-factory system, which uses java swing on eclipse IDE. 
 Actually, It is a homework from one of my school tasks.
